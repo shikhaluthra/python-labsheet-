@@ -1,0 +1,6 @@
+Student ID,Student Name,Gender,Department,Attendance,Study Hours,Assignment Marks,Internal Assessment Marks,Python Marks,DBMS Marks,AI Marks,Final Exam Marks,Average Subject Marks,Performance
+107,Arjun,Male,Data Science,54,0.8,45,42,38,46,41,40,41.67,Average
+103,Rohan,Male,Information Technology,61,1.0,55,48,52,58,49,54,53.0,Average
+111,Dev,Male,Information Technology,67,1.2,58,52,55,50,57,53,54.0,Average
+105,Kabir,Male,Computer Applications,72,1.5,64,60,62,68,65,63,65.0,Good
+108,Isha,Female,Computer Applications,78,2.0,70,68,73,71,76,72,73.33,Good
